@@ -1,0 +1,94 @@
+.estilo_titulo{
+
+    color: #6e0d25;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+ul li a{
+    text-decoration: none;
+    box-shadow: 5px 5px 10px #545461;
+
+}
+
+ul li{
+    list-style: none; 
+    margin: 10px ;
+    
+}
+
+ul li-hower
+
+nav ul{
+    padding: 0px;
+    border: #6e0d25 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: sticky;
+    top: 0;
+
+}
+
+
+
+
+body {
+      /*background-color:#055C61;*/
+      color: #6e0d25;;
+      background-color: antiquewhite;
+    
+
+    
+
+}
+.mainIndex{  
+   display: flex ;
+   flex-direction: column;
+   align-items: center;
+   /*font-family: "Quicksand", sans-serif;*/
+
+}
+
+.menuEncabezado{
+    display: flex ;
+   flex-direction: row;
+   align-items: center;
+
+}
+
+
+
+.mainImagenes{
+    margin-bottom: 25px ;
+    box-shadow: 10px 10px 10px grey;
+}
+
+.mainFooter{
+
+    font-family: "Quicksand", sans-serif;
+
+}
+
+.descripcion {
+
+  font-family: "Quicksand", sans-serif;
+  width: 500px;
+}
+    
+footer {
+   font-family: "Quicksand", sans-serif;
+}
+
+.Discos {
+    font-family: "Quicksand", sans-serif;
+    align-items: center;
+}
+
+.tapadisco {
+    font-family: "Quicksand", sans-serif;
+    align-items: center;
+}
+
